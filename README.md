@@ -35,7 +35,7 @@
 <h2>🎮 Current Project</h2>
 
 <p>
-<b>PMDC Game</b><br><br>
+<b>Last Horizon</b><br><br>
 This is the game I am currently developing while learning programming and game development.  
 The project helps me improve my coding, logic building, and development skills.
 </p>
