@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+am+Ishaq+Dad;Computer+Science+Student+(2nd+Year);Game+Developer;Currently+Building+Last Horizon+Game;Learning+Web+Development+%26+Programming;JavaScript+Python+HTML+C%2B%2B+C%23" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+am+Ishaq+Dad;Computer+Science+Student+(2nd+Year);Game+Developer;Currently+Building+Last HorizonGame;Learning+Web+Development+%26+Programming;JavaScript+Python+HTML+C%2B%2B+C%23" />
 </p>
 
 <!-- Profile Views -->
