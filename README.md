@@ -1,35 +1,103 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+whoami+%E2%86%92+Ishaq;CyberSec+%7C+FullStack)](https://git.io/typing-svg)
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+<!-- GitHub Profile README for ishaqdad -->
 
 <h1 align="center">Hi 👋, I'm Ishaq Dad</h1>
-<h3 align="center">Cs Student</h3>
 
-- 🔭 I’m currently working on **web development**
+<h3 align="center">
+🎮 Game Developer | 💻 CS Student | 🌐 Web Development Learner
+</h3>
 
-- 🌱 I’m currently learning **development, graphic designing**
+<!-- Typing Animation -->
 
-- 👯 I’m looking to collaborate on **cyber security ptojects**
-
-- 🤝 I’m looking for help with **finding clients**
-
-- 💬 Ask me about **telegram bots**
-
-- 📫 How to reach me **ishaqdad850@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ishaq__dad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaq__dad" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/23200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="23200" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+am+Ishaq+Dad;Computer+Science+Student+(2nd+Year);Game+Developer;Currently+Building+PMDC+Game;Learning+Web+Development+%26+Programming;JavaScript+Python+HTML+C%2B%2B+C%23" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Profile Views -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaqdad&show_icons=true&locale=en" alt="ishaqdad" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ishaqdad&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqdad&" alt="ishaqdad" /></p>
+<hr>
+
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+<li>🎓 I am a <b>2nd Year Computer Science Student</b></li>
+<li>🎮 I am a <b>Game Developer</b></li>
+<li>🚀 Currently working on my game project <b>PMDC</b></li>
+<li>🌱 Currently learning <b>Web Development & Programming</b></li>
+<li>💻 Working on improving my <b>Coding Skills</b></li>
+</ul>
+
+<hr>
+
+<h2>🎮 Current Project</h2>
+
+<p>
+<b>PMDC Game</b><br><br>
+This is the game I am currently developing while learning programming and game development.  
+The project helps me improve my coding, logic building, and development skills.
+</p>
+
+<hr>
+
+<h2>🧠 Programming Languages I'm Learning</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp"/>
+
+</p>
+
+<hr>
+
+<h2>🛠️ Tools & Technologies</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,git,github,vscode" />
+</p>
+
+<hr>
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishaqdad&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqdad&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqdad&theme=tokyonight"/>
+
+</p>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/ishaqdad">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<hr>
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub profile!
+</h3>
