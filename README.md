@@ -9,9 +9,8 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+am+Ishaq+Dad;Computer+Science+Student+(2nd+Year);Game+Developer;Currently+Building+Last HorizonGame;Learning+Web+Development+%26+Programming;JavaScript+Python+HTML+C%2B%2B+C%23" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+am+Ishaq+Dad;Computer+Science+Student+(2nd+Year);Game+Developer;Currently+Building+Last+Horizon+Game;Learning+Web+Development+%26+Programming;JavaScript+Python+HTML+C%2B%2B+C%23" />
 </p>
-
 <!-- Profile Views -->
 
 <p align="center">
@@ -25,7 +24,7 @@
 <ul>
 <li>🎓 I am a <b>2nd Year Computer Science Student</b></li>
 <li>🎮 I am a <b>Game Developer</b></li>
-<li>🚀 Currently working on my game project <b>PMDC</b></li>
+<li>🚀 Currently working on my game project <b>last Horizon</b></li>
 <li>🌱 Currently learning <b>Web Development & Programming</b></li>
 <li>💻 Working on improving my <b>Coding Skills</b></li>
 </ul>
