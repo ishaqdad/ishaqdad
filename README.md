@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+whoami+%E2%86%92+Ibrahim;CyberSec+%7C+FullStack+%7C+OSINT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+whoami+%E2%86%92+Ishaq;CyberSec+%7C+FullStack)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
