@@ -1,170 +1,102 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ishaq Dad | Portfolio</title>
+<!-- GitHub Profile README for ishaqdad -->
 
-<style>
-body {
-  margin: 0;
-  font-family: 'Courier New', monospace;
-  background: black;
-  color: #00ffcc;
-  overflow-x: hidden;
-}
+<h1 align="center">Hi 👋, I'm Ishaq Dad</h1>
 
-/* Matrix Rain */
-canvas {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: -1;
-}
+<h3 align="center">
+🎮 Game Developer | 💻 CS Student | 🌐 Web Development Learner
+</h3>
 
-.container {
-  text-align: center;
-  padding: 50px;
-}
+<!-- Typing Animation -->
 
-h1 {
-  font-size: 3rem;
-}
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I+am+Ishaq+Dad;Computer+Science+Student+(2nd+Year);Game+Developer;Currently+Building+Last+Horizon+Game;Learning+Web+Development+%26+Programming;JavaScript+Python+HTML+C%2B%2B+C%23" />
+</p>
+<!-- Profile Views -->
 
-.glow {
-  text-shadow: 0 0 10px #00ffcc;
-}
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ishaqdad&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
-.section {
-  margin-top: 50px;
-}
+<hr>
 
-.card {
-  border: 1px solid #00ffcc;
-  padding: 20px;
-  margin: 20px auto;
-  width: 80%;
-  border-radius: 10px;
-  box-shadow: 0 0 15px #00ffcc;
-}
+<h2>👨‍💻 About Me</h2>
 
-button {
-  background: black;
-  color: #00ffcc;
-  border: 1px solid #00ffcc;
-  padding: 10px 20px;
-  cursor: pointer;
-}
+<ul>
+<li>🎓 I am a <b>2nd Year Computer Science Student</b></li>
+<li>🎮 I am a <b>Game Developer</b></li>
+<li>🚀 Currently working on my game project <b>last Horizon</b></li>
+<li>🌱 Currently learning <b>Web Development & Programming</b></li>
+<li>💻 Working on improving my <b>Coding Skills</b></li>
+</ul>
 
-button:hover {
-  background: #00ffcc;
-  color: black;
-}
+<hr>
 
-/* Terminal */
-#terminal {
-  background: black;
-  border: 1px solid #00ffcc;
-  padding: 20px;
-  width: 80%;
-  margin: auto;
-  text-align: left;
-  height: 200px;
-  overflow-y: auto;
-}
-</style>
-</head>
-<body>
+<h2>🎮 Current Project</h2>
 
-<canvas id="matrix"></canvas>
+<p>
+<b>Last Horizon</b><br><br>
+This is the game I am currently developing while learning programming and game development.  
+The project helps me improve my coding, logic building, and development skills.
+</p>
 
-<div class="container">
-  <h1 class="glow">🚀 Ishaq Dad</h1>
-  <h3>Game Developer | CS Student | Future Security Engineer</h3>
+<hr>
 
-  <div class="section card">
-    <h2>👨‍💻 About Me</h2>
-    <p>2nd Year Computer Science Student</p>
-    <p>Game Developer working on <b>Last Horizon</b></p>
-    <p>Learning Web Development & Programming</p>
-    <p>Exploring Cybersecurity</p>
-  </div>
+<h2>🧠 Programming Languages I'm Learning</h2>
 
-  <div class="section card">
-    <h2>🎮 Project</h2>
-    <p><b>Last Horizon</b> - Game in progress</p>
-  </div>
+<p align="center">
 
-  <div class="section card">
-    <h2>🧠 Skills</h2>
-    <p>JavaScript | Python | HTML | C++ | C#</p>
-  </div>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp"/>
 
-  <div class="section card">
-    <h2>💻 Hacker Terminal</h2>
-    <div id="terminal"></div>
-    <button onclick="runTerminal()">Run</button>
-  </div>
-</div>
+</p>
 
-<script>
-// MATRIX EFFECT
-const canvas = document.getElementById('matrix');
-const ctx = canvas.getContext('2d');
-canvas.height = window.innerHeight;
-canvas.width = window.innerWidth;
+<hr>
 
-const letters = "01";
-const fontSize = 14;
-const columns = canvas.width / fontSize;
+<h2>🛠️ Tools & Technologies</h2>
 
-const drops = [];
-for (let x = 0; x < columns; x++) drops[x] = 1;
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,git,github,vscode" />
+</p>
 
-function draw() {
-  ctx.fillStyle = "rgba(0,0,0,0.05)";
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
-  ctx.fillStyle = "#0f0";
-  ctx.font = fontSize + "px monospace";
+<hr>
 
-  for (let i = 0; i < drops.length; i++) {
-    const text = letters[Math.floor(Math.random() * letters.length)];
-    ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+<h2>📊 GitHub Statistics</h2>
 
-    if (drops[i] * fontSize > canvas.height && Math.random() > 0.975)
-      drops[i] = 0;
+<p align="center">
 
-    drops[i]++;
-  }
-}
-setInterval(draw, 33);
+<img src="https://github-readme-stats.vercel.app/api?username=ishaqdad&show_icons=true&theme=tokyonight"/>
 
-// TERMINAL EFFECT
-const terminal = document.getElementById("terminal");
-const commands = [
-  "Initializing system...",
-  "Loading skills...",
-  "JavaScript ✔",
-  "Python ✔",
-  "Cybersecurity module loading...",
-  "Access Granted 🚀"
-];
+</p>
 
-function runTerminal() {
-  terminal.innerHTML = "";
-  let i = 0;
+<p align="center">
 
-  const interval = setInterval(() => {
-    if (i < commands.length) {
-      terminal.innerHTML += commands[i] + "<br>";
-      i++;
-      terminal.scrollTop = terminal.scrollHeight;
-    } else {
-      clearInterval(interval);
-    }
-  }, 500);
-}
-</script>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqdad&layout=compact&theme=tokyonight"/>
 
-</body>
-</html>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqdad&theme=tokyonight"/>
+
+</p>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/ishaqdad">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<hr>
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub profile!
+</h3>
