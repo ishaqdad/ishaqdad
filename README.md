@@ -105,10 +105,6 @@ The project helps me improve my coding, logic building, and development skills.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaqdad&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaqdad&theme=tokyonight"/>
 </p>
 
